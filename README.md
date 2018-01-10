@@ -8,11 +8,6 @@ We are working class anarchists and communists — anti-fascist, anti-racist, an
 
 ## Contributing
 
-This site is currently undergoing heavy development. Jason is in the process of building page templates, which will be converted into a 
-basic CMS using PHP.
-
-Be sure to check out the Issues, where we have a number of discussions ongoing about the future of this site.
-
 ### Help Out
 
 1. [Create a GitHub Account](https://github.com/join) or login. Then come [back here](https://github.com/SocialistRA/socialistra.github.io/).
